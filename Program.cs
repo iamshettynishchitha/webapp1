@@ -12,6 +12,7 @@ namespace ProjectDemo
     public class Program
     {
         //changed comment from github
+        // added 2nd cmt
         public static void Main(string[] args)
         {
             CreateHostBuilder(args).Build().Run();
